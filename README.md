@@ -1,5 +1,5 @@
 # BitmapTest
-Android中图片大小、drawable文件夹、图片大小对内存占用的影响研究的demo
+# Android中图片大小、drawable文件夹、图片大小对内存占用的影响研究 #
 
 对于这个问题的分析,推荐一篇博客[http://blog.csdn.net/zhaokaiqiang1992/article/details/49787117](http://blog.csdn.net/zhaokaiqiang1992/article/details/49787117 "关于Android中图片大小、内存占用与drawable文件夹关系的研究与分析")
 
